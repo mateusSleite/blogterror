@@ -2,7 +2,7 @@
   "name": "teste",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mateusleite.github.io/blogterror",
+  "homepage": "https://mateussleite.github.io/blogterror",
   "type": "module",
   "scripts": {
     "dev": "vite",
